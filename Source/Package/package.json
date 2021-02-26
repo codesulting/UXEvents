@@ -1,0 +1,10 @@
+{
+  "name": "UXEvents.js",
+  "description": "Lightweight JavaScript UX Event Sourcing library. Provides simple pub/sub system along with an event stream of logged UX Events. Includes a Bootstrap Modal to display user session UX Events on your page (optional URL param to enable in PROD) with Import/Export and Replay functionality.",
+  "author": "Codesulting, LLC",
+  "homepage": "https://www.UXEvents.org",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  }
+}
